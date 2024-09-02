@@ -2,7 +2,6 @@
 using namespace std;
 int main() 
 {
-    // Define matrix dimensions
     int r1 = 3, c1 = 3;
     int r2 = 3, c2 = 3;
 
